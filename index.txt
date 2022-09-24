@@ -3,7 +3,7 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Tianhao LI 李天昊
+Tianhao LI
 Web developer
 
 Show Contacts
